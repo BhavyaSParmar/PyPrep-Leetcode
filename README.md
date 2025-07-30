@@ -111,7 +111,7 @@ This repo is for personal practice, but I always appreciate corrections, suggest
 
 - Fork the repo and submit a pull request!
 - Raise an issue if you spot any inconsistencies.
-- Leave a ⭐ if this helps you level up your Pandas skills!
+- Leave a ⭐ if this helps you level up your python skills!
 
 ---
 
