@@ -1,12 +1,12 @@
 # PyPrep - Leetcode 
 
-> Welcome to PyPrep-Leetcode, a curated collection of Python solutions to classic and advanced LeetCode problems. This repository is built to sharpen your algorithmic thinking, data structure fundamentals, and coding fluency using Python — one of the most versatile languages for technical interviews and real-world problem solving.
+> Welcome to PyPrep-Leetcode, a curated collection of Python solutions to classic and advanced LeetCode problems. This repository is built to sharpen your algorithmic thinking, data structure fundamentals, and coding fluency using Python, one of the most versatile languages for technical interviews and real-world problem solving.
 
 ---
 
 ## 📌 About the Repository
 
-This repository is a personal Python-based walkthrough of LeetCode problems I’ve tackled. It’s built to reinforce my understanding of Pythonic problem-solving patterns — from the basics to advanced algorithmic challenges. Each folder maps to a specific topic, and every problem includes well-commented code and intuitive explanations when needed.
+This repository is a personal Python-based walkthrough of LeetCode problems I’ve tackled. It’s built to reinforce my understanding of Pythonic problem-solving patterns, from the basics to advanced algorithmic challenges. Each folder maps to a specific topic, and every problem includes well-commented code and intuitive explanations when needed.
 
 If you're also brushing up on Python for interviews or just love solving algorithm problems, feel free to use this repo for reference or practice.
 
