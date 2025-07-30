@@ -1,9 +1,6 @@
-<h1 align="left">PyPrep-Leetcode</h1>
-<div align="left">
+# PyPrep - Leetcode 
 
-💻 LeetCode problems solved using Python 🐍
-
-</div>
+> Welcome to PyPrep-Leetcode, a curated collection of Python solutions to classic and advanced LeetCode problems. This repository is built to sharpen your algorithmic thinking, data structure fundamentals, and coding fluency using Python — one of the most versatile languages for technical interviews and real-world problem solving.
 
 ---
 
@@ -108,9 +105,18 @@ This repo is for personal practice, but I always appreciate corrections, suggest
 
 ---
 
-<div align="center">
+## 📬 Contributions
 
-📈 Consistency > Intensity.  
-Happy Coding ✨
+> Found a better approach or want to contribute?
 
-</div>
+- Fork the repo and submit a pull request!
+- Raise an issue if you spot any inconsistencies.
+- Leave a ⭐ if this helps you level up your Pandas skills!
+
+---
+
+## 📎 Author
+
+> **Bhavya Parmar**  
+> MS in Information Systems | Northeastern University  
+> [LinkedIn](https://www.linkedin.com/in/bhavya-parmar-b8b3a0172/) • [Medium](https://medium.com/@bhavyasparmar402)
