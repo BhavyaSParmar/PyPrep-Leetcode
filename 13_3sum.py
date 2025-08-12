@@ -5,13 +5,11 @@ class Solution:
         res = []
 
         for i in range(n - 2):
-            # Skip duplicate anchors
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
-            # Optional pruning
             if nums[i] > 0:
-                break  # since array is sorted, no three numbers can sum to 0
+                break  
 
             l, r = i + 1, n - 1
             target = -nums[i]
@@ -21,7 +19,6 @@ class Solution:
                 if s == target:
                     res.append([nums[i], nums[l], nums[r]])
 
-                    # Move both pointers past duplicates
                     l_val, r_val = nums[l], nums[r]
                     while l < r and nums[l] == l_val:
                         l += 1
