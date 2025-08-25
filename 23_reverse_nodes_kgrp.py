@@ -30,8 +30,8 @@ class Solution:
                 cur = nxt
 
          
-            tmp = group_prev.next         # becomes the tail of this group
-            group_prev.next = kth         # new head of the group
-            group_prev = tmp              # move to next group
+            tmp = group_prev.next         
+            group_prev.next = kth         
+            group_prev = tmp              
 
         return dummy.next
